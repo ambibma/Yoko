@@ -4,8 +4,8 @@
 ## A student HTML that showcases Yoko's looks and nicknames. ##
 
 ## **Technologies Used** ##
-* HTML
-* CSS
+* _HTML
+* _CSS
 
 ## For those who would like learn more about who Yoko is this student HTML Project will allow the user to explore through the page ##
 
